@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wealyter.github.io/sitemap.html.gz
+Sitemap: https://wealyter.github.io/app/sitemap.html.gz
+Sitemap: https://wealyter.github.io/assets/sitemap.html.gz
+Sitemap: https://wealyter.github.io/css/sitemap.html.gz
+Sitemap: https://wealyter.github.io/includes/sitemap.html.gz
+Sitemap: https://wealyter.github.io/item/sitemap.html.gz
+Sitemap: https://wealyter.github.io/src/sitemap.html.gz
